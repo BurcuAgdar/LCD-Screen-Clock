@@ -465,7 +465,3 @@ void loop()
     lcd.setCursor(0, 0);
 }
 
-//Referances:
-//https://www.tinkercad.com/
-//https://gelecegiyazanlar.turkcell.com.tr/soru/arduino-split-islemi-ile-metni-2-degikene-vermek
-//https://hayaletveyap.com/arduino-16-2-lcd-kullanimi/
